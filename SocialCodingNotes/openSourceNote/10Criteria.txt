@@ -1,0 +1,37 @@
+	Free Redistribution
+	    The license cannot prevent anyone from selling or giving away the 
+        software and cannot impose any royalties or fees on use of 
+        the code.
+	Source Code
+	    The source code must be made available in some well-publicized
+         way for no more than a reasonable reproduction cost 
+         (preferably downloadable from the Internet without 
+         charge but this is not a necessity). 
+	Derived Works
+	    The license must allow modifications and derivative works to 
+        be distributed under the same terms as the original software 
+        license.
+	Integrity of Author’s Source Code
+	    The license can restrict source code from being distributed in
+         modified form provided it allows the distribution of "patch
+          files." The license must allow distribution of software built 
+          from modified source code but can require derived works to 
+          carry different names or version numbers from the original.
+	No Discrimination against people
+	    The license must not discriminate against any person or 
+        group of persons.
+	No Discrimination against Fields of Endeavour
+	    The license must not restrict anyone from making use of 
+        the program in a specific field of endeavour.
+	Distribution of License
+	    The rights attached to the program must apply to all to
+         whom the program is redistributed.
+	License Must not Be Specific to a Product
+	    The rights attached to the program must not depend on the
+         program being part of a particular software distribution.
+	The License Must Not Restrict Other Software
+	    The license must not place restrictions on any other software that is distributed along with the licensed software.
+	License Must be Technology-Neutral
+	    Accepting the license terms (prior to downloading) must not
+         depend on a particular technology.
+
